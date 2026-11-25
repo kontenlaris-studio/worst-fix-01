@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280">
+
+<p>Worst fix ever: funniest commit message.</p>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-FF7A00?style=for-the-badge&labelColor=0A1931&color=FF7A00)](https://opensource.org/licenses/MIT) [![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-FF7A00?style=for-the-badge&labelColor=0A1931&color=FF7A00)](https://github.com/kontenlaris-studio)
+</div>
+
 # worst-fix-01
 
 [![make.fun · u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722.svg)](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722)
